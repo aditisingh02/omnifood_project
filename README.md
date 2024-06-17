@@ -1,6 +1,6 @@
 <h1 align="center"><span><img height=30px src="https://github.com/aditisingh02/text_to_speech_converter/assets/140513260/c98d7966-99f1-4447-ada6-6d60de33af09"> Omnifood Project</h1>
 <p align=center">
-<img src="https://github.com/aditisingh02/omnifood_project/assets/140513260/6bef458f-90ef-4f1c-8e46-a74ec428f880" align="center" height =500px>
+<img src="https://github.com/aditisingh02/omnifood_project/assets/140513260/6bef458f-90ef-4f1c-8e46-a74ec428f880" align="center" height =300px width=auto>
 </p>
 
 <h2>🌠Overview</h2>
