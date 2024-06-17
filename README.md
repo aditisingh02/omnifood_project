@@ -8,7 +8,7 @@ Omnifood is a fully responsive website designed to provide a seamless food subsc
 
 <h3>💜Design Philosophy</h3>
 
-Our design philosophy centers around user experience and accessibility. We believe that a great website should not only look good but also function perfectly across all devices and platforms. That's why we've put a significant emphasis on responsive design, ensuring that Omnifood delivers an optimal experience whether you're on a desktop, tablet, or mobile device.
+The design philosophy centers around user experience and accessibility. I believe that a great website should not only look good but also function perfectly across all devices and platforms. That's why I've put a significant emphasis on responsive design, ensuring that Omnifood delivers an optimal experience whether you're on a desktop, tablet, or mobile device.
 
 <img src="https://github.com/aditisingh02/omnifood_project/assets/140513260/357d55be-df77-48b2-93b4-4a928b961640" justify="center" height =250px>
 <img src="https://github.com/aditisingh02/omnifood_project/assets/140513260/5c50cc12-868d-4fe8-b8ad-ca8004792cb9" justify="center" height =250px>
@@ -21,4 +21,4 @@ Our design philosophy centers around user experience and accessibility. We belie
 - **CSS3**: Leveraging the latest CSS features for styling and animations.
 - **JavaScript**: To add interactivity and enhance user engagement.
 
-We've also utilized modern CSS frameworks and JavaScript libraries to ensure robustness and cross-browser compatibility.
+The website also utilizes modern CSS frameworks and JavaScript libraries to ensure robustness and cross-browser compatibility.
