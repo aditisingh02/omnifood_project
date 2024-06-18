@@ -19,6 +19,6 @@ The design philosophy centers around user experience and accessibility. I believ
 
 - **HTML5**: For semantic markup and structure
 - **CSS3**: Leveraging the latest CSS features for styling and animations
-- **JavaScript**: To add interactivity and enhance user engagement.
+- **JavaScript**: To add interactivity and enhance user engagement
 
 The website also utilizes modern CSS frameworks and JavaScript libraries to ensure robustness and cross-browser compatibility.
